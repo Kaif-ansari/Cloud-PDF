@@ -1,0 +1,7 @@
+{
+  "name": "CloudPDF SaaS",
+  "description": "A professional-grade PDF tools platform featuring merge, split, compress, AI chat, and conversion capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
